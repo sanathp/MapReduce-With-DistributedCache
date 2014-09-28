@@ -18,6 +18,6 @@ How to Execute :
 
 Place three files in one folder and create a jar .
 
-Run the below hadop command :
+Run the below hadoop command :
 
 hadoop jar WordFrequencyOfAList.jar WordFrequencyOfAList input-directory output-directory word-pattern-file-location
